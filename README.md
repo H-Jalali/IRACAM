@@ -1,2 +1,17 @@
 # IRACAM
-A streamlined ADAS tool for accurate distance estimation, featuring advanced FCW and TTC analytics.
+
+## Overview
+IRACAM is a cutting-edge Advanced Driver Assistance System (ADAS) tool designed for precision in distance estimation, integrating advanced Forward Collision Warning (FCW) and Time to Collision (TTC) analytics. This project aims to enhance driving safety by providing innovative technological solutions.
+
+## Demonstration
+To see IRACAM in action, check out this:
+
+![IRACAM Output](https://github.com/H-Jalali/IRACAM/blob/main/videos/output.gif)
+
+
+## Contact
+For any inquiries or contributions, please contact hasanjalali118@gmail.com.
+
+---
+
+IRACAM – Driving the future of road safety with innovative ADAS technology.
