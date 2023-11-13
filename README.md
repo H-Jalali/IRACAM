@@ -12,6 +12,10 @@ To see IRACAM in action, check out this:
 ## Contact
 For any inquiries or contributions, please contact hasanjalali@ut.ac.ir.
 
+## References
+https://github.com/mahfuz195/Intel-ai-iot-adas-project/blob/master/README.md <br />
+https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1
+
 ---
 
 IRACAM – Driving the future of road safety with innovative ADAS technology.
