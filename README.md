@@ -10,7 +10,9 @@ To see IRACAM in action, check out this:
 
 
 ## Contact
-For any inquiries or contributions, please contact hasanjalali118@gmail.com.
+For any inquiries or contributions, please contact us:<br />
+hasanjalali@ut.ac.ir <br />
+hossein.damavandi@sadjad.ac.ir
 
 ---
 
