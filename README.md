@@ -13,7 +13,7 @@ To see IRACAM in action, check out this:
 For any inquiries or contributions, please contact hasanjalali@ut.ac.ir.
 
 ## References
-https://github.com/mahfuz195/Intel-ai-iot-adas-project/blob/master/README.md <br />
+https://github.com/mahfuz195/Intel-ai-iot-adas-project <br />
 https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1
 
 ---
