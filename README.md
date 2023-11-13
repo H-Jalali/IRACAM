@@ -16,4 +16,4 @@ For any inquiries or contributions, please contact hasanjalali@ut.ac.ir.
 
 ---
 
-IRACAM – Driving the future of road safety with innovative ADAS technology.
+IRACAM – Intelligent Real-time Algorithmic Camera.
