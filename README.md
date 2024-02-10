@@ -12,7 +12,7 @@ To see IRACAM in action, check out this:
 ![IRACAM Output](https://github.com/H-Jalali/IRACAM/blob/main/videos/output.gif)
 
 ## 📬 Contact
-For any inquiries or contributions, please contact hasanjalali@ut.ac.ir.
+For any inquiries or contributions, please contact hasanjalali@ut.ac.ir, h.damavandi2012@yahoo.com.
 
 ---
 
